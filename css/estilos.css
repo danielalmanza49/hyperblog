@@ -1,10 +1,5 @@
 body
 {
-<<<<<<< HEAD
-    color: blue;
-    text-align: center;
-    font-family: courier;
-=======
     color: rgb(3, 31, 21);
     font-family: Arial;
     text-align: center;
@@ -48,5 +43,4 @@ body
 #post
 {
 
->>>>>>> 307c026
 }
