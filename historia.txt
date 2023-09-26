@@ -4,6 +4,10 @@ test
 
 curso git
 
+<<<<<<< HEAD
 cambio vida
 
 tal vez
+=======
+mañana pasa
+>>>>>>> 307c026

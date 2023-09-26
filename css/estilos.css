@@ -1,6 +1,52 @@
 body
 {
+<<<<<<< HEAD
     color: blue;
     text-align: center;
     font-family: courier;
+=======
+    color: rgb(3, 31, 21);
+    font-family: Arial;
+    text-align: center;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+#cabecera
+{
+    background: #88f;
+    box-shadow: 0px 2px 50px 0px rgba(0, 0, 0, 0.75);
+    color: aliceblue;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
+
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #ffff;
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px;
+}
+
+#post
+{
+
+>>>>>>> 307c026
 }
